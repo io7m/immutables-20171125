@@ -123,8 +123,8 @@
 [INFO] ------------------------------------------------------------------------
 [INFO] BUILD FAILURE
 [INFO] ------------------------------------------------------------------------
-[INFO] Total time: 3.265 s
-[INFO] Finished at: 2017-11-25T18:21:31Z
+[INFO] Total time: 3.258 s
+[INFO] Finished at: 2017-11-25T18:23:18Z
 [INFO] Final Memory: 17M/58M
 [INFO] ------------------------------------------------------------------------
 [ERROR] Failed to execute goal org.apache.maven.plugins:maven-compiler-plugin:3.7.0:compile (default-compile) on project immutables-20171125: Compilation failure: Compilation failure: 
